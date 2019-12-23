@@ -1,0 +1,704 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "first_name": "Ginelle",
+            "last_name": "Hessentaler",
+            "gender": "Female",
+            "unversity": "Long Island University, Southampton College"
+        },
+        {
+            "id": 2,
+            "first_name": "Georgette",
+            "last_name": "Hadlow",
+            "gender": "Female",
+            "unversity": "Business and Hotel Management School"
+        },
+        {
+            "id": 3,
+            "first_name": "Clark",
+            "last_name": "Bachshell",
+            "gender": "Male",
+            "unversity": "Ulyanovsk State Pedagogical University"
+        },
+        {
+            "id": 4,
+            "first_name": "Benedetto",
+            "last_name": "Mash",
+            "gender": "Male",
+            "unversity": "College Misericordia"
+        },
+        {
+            "id": 5,
+            "first_name": "Nicol",
+            "last_name": "Escritt",
+            "gender": "Male",
+            "unversity": "Technische Universität Berlin"
+        },
+        {
+            "id": 6,
+            "first_name": "Nil",
+            "last_name": "Forward",
+            "gender": "Male",
+            "unversity": "Università Pontificia Salesiana"
+        },
+        {
+            "id": 7,
+            "first_name": "Ruddy",
+            "last_name": "Danzelman",
+            "gender": "Male",
+            "unversity": "Gaborone Universal College of Law"
+        },
+        {
+            "id": 8,
+            "first_name": "Coralie",
+            "last_name": "Loidl",
+            "gender": "Female",
+            "unversity": "Fachhochschule Köln"
+        },
+        {
+            "id": 9,
+            "first_name": "Maible",
+            "last_name": "Ramsay",
+            "gender": "Female",
+            "unversity": "University of Trinidad and Tobago"
+        },
+        {
+            "id": 10,
+            "first_name": "Nathalie",
+            "last_name": "Dalgardno",
+            "gender": "Female",
+            "unversity": "National Chengchi University"
+        },
+        {
+            "id": 11,
+            "first_name": "Maris",
+            "last_name": "Pougher",
+            "gender": "Female",
+            "unversity": "Regis University"
+        },
+        {
+            "id": 12,
+            "first_name": "Nancie",
+            "last_name": "Corhard",
+            "gender": "Female",
+            "unversity": "Louisiana Tech University"
+        },
+        {
+            "id": 13,
+            "first_name": "Hardy",
+            "last_name": "Jutson",
+            "gender": "Male",
+            "unversity": "International Higher School for Advanced Studies Trieste"
+        },
+        {
+            "id": 14,
+            "first_name": "Riane",
+            "last_name": "Cassius",
+            "gender": "Female",
+            "unversity": "Universidad de Guayaquil"
+        },
+        {
+            "id": 15,
+            "first_name": "Dino",
+            "last_name": "Smewings",
+            "gender": "Male",
+            "unversity": "Azerbaijan Diplomatic Academy"
+        },
+        {
+            "id": 16,
+            "first_name": "Tore",
+            "last_name": "MacAfee",
+            "gender": "Male",
+            "unversity": "Thunderbird School of Global Management"
+        },
+        {
+            "id": 17,
+            "first_name": "Haze",
+            "last_name": "Simonin",
+            "gender": "Male",
+            "unversity": "University of Puget Sound"
+        },
+        {
+            "id": 18,
+            "first_name": "Ermanno",
+            "last_name": "Roskelley",
+            "gender": "Male",
+            "unversity": "Kendall College of Art and Design"
+        },
+        {
+            "id": 19,
+            "first_name": "Gracie",
+            "last_name": "Petrollo",
+            "gender": "Female",
+            "unversity": "Latvian Maritime Academy"
+        },
+        {
+            "id": 20,
+            "first_name": "Corine",
+            "last_name": "Stanmer",
+            "gender": "Female",
+            "unversity": "University of Sioux Falls"
+        },
+        {
+            "id": 21,
+            "first_name": "Andreana",
+            "last_name": "Hardwicke",
+            "gender": "Female",
+            "unversity": "Voronezh State Academy of Technology"
+        },
+        {
+            "id": 22,
+            "first_name": "Chas",
+            "last_name": "Hughland",
+            "gender": "Male",
+            "unversity": "Korea Maritime University"
+        },
+        {
+            "id": 23,
+            "first_name": "Minni",
+            "last_name": "Bringloe",
+            "gender": "Female",
+            "unversity": "Ho Polytechnic "
+        },
+        {
+            "id": 24,
+            "first_name": "Karalee",
+            "last_name": "Domonkos",
+            "gender": "Female",
+            "unversity": "Belarussian State University of Informatics and Radioelectronics"
+        },
+        {
+            "id": 25,
+            "first_name": "Deny",
+            "last_name": "Stallon",
+            "gender": "Female",
+            "unversity": "Karlshochschule International University"
+        },
+        {
+            "id": 26,
+            "first_name": "Daisey",
+            "last_name": "Reyna",
+            "gender": "Female",
+            "unversity": "Hillsdale College"
+        },
+        {
+            "id": 27,
+            "first_name": "Kippie",
+            "last_name": "Jeness",
+            "gender": "Male",
+            "unversity": "State University of New York College of Environmental Science and Forestry"
+        },
+        {
+            "id": 28,
+            "first_name": "Kenton",
+            "last_name": "Salsbury",
+            "gender": "Male",
+            "unversity": "University of Colorado Health Sciences Center"
+        },
+        {
+            "id": 29,
+            "first_name": "Napoleon",
+            "last_name": "Meacher",
+            "gender": "Male",
+            "unversity": "Davenport College of Business, Kalamazoo"
+        },
+        {
+            "id": 30,
+            "first_name": "Fidelio",
+            "last_name": "Walder",
+            "gender": "Male",
+            "unversity": "Tuva State University"
+        },
+        {
+            "id": 31,
+            "first_name": "Rosalinde",
+            "last_name": "Ayerst",
+            "gender": "Female",
+            "unversity": "Centro Universitário Adventista de São Paulo"
+        },
+        {
+            "id": 32,
+            "first_name": "Candra",
+            "last_name": "Leupold",
+            "gender": "Female",
+            "unversity": "Universidade Lusiada"
+        },
+        {
+            "id": 33,
+            "first_name": "Lonnie",
+            "last_name": "McConnel",
+            "gender": "Male",
+            "unversity": "Université Jean Monnet"
+        },
+        {
+            "id": 34,
+            "first_name": "Sheffy",
+            "last_name": "Lutzmann",
+            "gender": "Male",
+            "unversity": "Universidad Nacional José Faustino Sánchez Carrión"
+        },
+        {
+            "id": 35,
+            "first_name": "Antonino",
+            "last_name": "Dugall",
+            "gender": "Male",
+            "unversity": "School of Finance and Banking"
+        },
+        {
+            "id": 36,
+            "first_name": "Charis",
+            "last_name": "Strattan",
+            "gender": "Female",
+            "unversity": "Ningbo University of Technology"
+        },
+        {
+            "id": 37,
+            "first_name": "Gerty",
+            "last_name": "Keson",
+            "gender": "Female",
+            "unversity": "Holy Angel University"
+        },
+        {
+            "id": 38,
+            "first_name": "Maison",
+            "last_name": "Cleeton",
+            "gender": "Male",
+            "unversity": "Universidad Autónoma Metropolitana - Iztapalapa"
+        },
+        {
+            "id": 39,
+            "first_name": "Wendye",
+            "last_name": "Cornick",
+            "gender": "Female",
+            "unversity": "Universidad de San Andres"
+        },
+        {
+            "id": 40,
+            "first_name": "Verne",
+            "last_name": "Newark",
+            "gender": "Male",
+            "unversity": "Cyprus International Institute of Management (CIIM)"
+        },
+        {
+            "id": 41,
+            "first_name": "Angie",
+            "last_name": "Tschursch",
+            "gender": "Male",
+            "unversity": "National Pirogov Memorial Medical University"
+        },
+        {
+            "id": 42,
+            "first_name": "Carrie",
+            "last_name": "Davidovici",
+            "gender": "Female",
+            "unversity": "Rovaniemi University of Applied Sciences"
+        },
+        {
+            "id": 43,
+            "first_name": "Romonda",
+            "last_name": "Cogan",
+            "gender": "Female",
+            "unversity": "Universiti Tenaga Nasional"
+        },
+        {
+            "id": 44,
+            "first_name": "Rafi",
+            "last_name": "MacGill",
+            "gender": "Male",
+            "unversity": "Asahi University"
+        },
+        {
+            "id": 45,
+            "first_name": "Danny",
+            "last_name": "Brabon",
+            "gender": "Male",
+            "unversity": "John Paul the Great Catholic University"
+        },
+        {
+            "id": 46,
+            "first_name": "Klemens",
+            "last_name": "Bessom",
+            "gender": "Male",
+            "unversity": "Tokyo Gakugei University"
+        },
+        {
+            "id": 47,
+            "first_name": "Zack",
+            "last_name": "Rikkard",
+            "gender": "Male",
+            "unversity": "New York University"
+        },
+        {
+            "id": 48,
+            "first_name": "Kenn",
+            "last_name": "Greatbanks",
+            "gender": "Male",
+            "unversity": "Nebraska Christian College"
+        },
+        {
+            "id": 49,
+            "first_name": "Marshal",
+            "last_name": "Ackenhead",
+            "gender": "Male",
+            "unversity": "Universitas Wisnuwardhana"
+        },
+        {
+            "id": 50,
+            "first_name": "Titus",
+            "last_name": "Mussen",
+            "gender": "Male",
+            "unversity": "Fountain University"
+        },
+        {
+            "id": 51,
+            "first_name": "Leanora",
+            "last_name": "Westpfel",
+            "gender": "Female",
+            "unversity": "National University of Arts"
+        },
+        {
+            "id": 52,
+            "first_name": "Brander",
+            "last_name": "Stoakley",
+            "gender": "Male",
+            "unversity": "Universidad Autónoma del Paraguay"
+        },
+        {
+            "id": 53,
+            "first_name": "Rakel",
+            "last_name": "Bath",
+            "gender": "Female",
+            "unversity": "People's University of Bangladesh"
+        },
+        {
+            "id": 54,
+            "first_name": "Sherline",
+            "last_name": "Rossborough",
+            "gender": "Female",
+            "unversity": "Gretsa Universtiy"
+        },
+        {
+            "id": 55,
+            "first_name": "Derek",
+            "last_name": "Pilipets",
+            "gender": "Male",
+            "unversity": "National Law School of India University"
+        },
+        {
+            "id": 56,
+            "first_name": "Vassili",
+            "last_name": "Celle",
+            "gender": "Male",
+            "unversity": "European School of Economics"
+        },
+        {
+            "id": 57,
+            "first_name": "Rodi",
+            "last_name": "Fero",
+            "gender": "Female",
+            "unversity": "Northern Michigan University"
+        },
+        {
+            "id": 58,
+            "first_name": "Maje",
+            "last_name": "Goldster",
+            "gender": "Male",
+            "unversity": "Université de 7 Novembre à Carthage"
+        },
+        {
+            "id": 59,
+            "first_name": "Tani",
+            "last_name": "Louys",
+            "gender": "Female",
+            "unversity": "University of Pannonia"
+        },
+        {
+            "id": 60,
+            "first_name": "Padraig",
+            "last_name": "Mc Coughan",
+            "gender": "Male",
+            "unversity": "Fachhochschule Pur"
+        },
+        {
+            "id": 61,
+            "first_name": "Martica",
+            "last_name": "Cape",
+            "gender": "Female",
+            "unversity": "Jai Prakash University"
+        },
+        {
+            "id": 62,
+            "first_name": "Conney",
+            "last_name": "Sheen",
+            "gender": "Male",
+            "unversity": "Ecole Nationale d'Ingénieurs des Techniques des Industries Agricoles et Alimentaires"
+        },
+        {
+            "id": 63,
+            "first_name": "Cecelia",
+            "last_name": "Averies",
+            "gender": "Female",
+            "unversity": "Private FernFachhochschule Darmstadt"
+        },
+        {
+            "id": 64,
+            "first_name": "Latisha",
+            "last_name": "Keach",
+            "gender": "Female",
+            "unversity": "Université d'Evry Val d'Essonne"
+        },
+        {
+            "id": 65,
+            "first_name": "Vyky",
+            "last_name": "Roderigo",
+            "gender": "Female",
+            "unversity": "Laikipia University"
+        },
+        {
+            "id": 66,
+            "first_name": "Zane",
+            "last_name": "Bockin",
+            "gender": "Male",
+            "unversity": "Sarah Lawrence College"
+        },
+        {
+            "id": 67,
+            "first_name": "Upton",
+            "last_name": "Prenty",
+            "gender": "Male",
+            "unversity": "New World University"
+        },
+        {
+            "id": 68,
+            "first_name": "Nickolai",
+            "last_name": "Glyne",
+            "gender": "Male",
+            "unversity": "City University"
+        },
+        {
+            "id": 69,
+            "first_name": "Daloris",
+            "last_name": "Marmion",
+            "gender": "Female",
+            "unversity": "Tver State Medical Academy"
+        },
+        {
+            "id": 70,
+            "first_name": "Cointon",
+            "last_name": "Tatem",
+            "gender": "Male",
+            "unversity": "Taraba State University"
+        },
+        {
+            "id": 71,
+            "first_name": "Winfred",
+            "last_name": "Jakovijevic",
+            "gender": "Male",
+            "unversity": "Taisho University"
+        },
+        {
+            "id": 72,
+            "first_name": "Kacey",
+            "last_name": "Iannazzi",
+            "gender": "Female",
+            "unversity": "Kentucky State University"
+        },
+        {
+            "id": 73,
+            "first_name": "Clo",
+            "last_name": "Wollen",
+            "gender": "Female",
+            "unversity": "Knowledge International University"
+        },
+        {
+            "id": 74,
+            "first_name": "Leone",
+            "last_name": "Lantiffe",
+            "gender": "Female",
+            "unversity": "Kakatiya University"
+        },
+        {
+            "id": 75,
+            "first_name": "Kalinda",
+            "last_name": "Sawley",
+            "gender": "Female",
+            "unversity": "University of San Jose Recoletos"
+        },
+        {
+            "id": 76,
+            "first_name": "Josias",
+            "last_name": "Jendrich",
+            "gender": "Male",
+            "unversity": "Pädagogische Hochschule Erfurt/Mühlhausen"
+        },
+        {
+            "id": 77,
+            "first_name": "Pierre",
+            "last_name": "Huddart",
+            "gender": "Male",
+            "unversity": "Nagoya City University"
+        },
+        {
+            "id": 78,
+            "first_name": "Samantha",
+            "last_name": "MacLice",
+            "gender": "Female",
+            "unversity": "Neumann College"
+        },
+        {
+            "id": 79,
+            "first_name": "Sibylle",
+            "last_name": "Jobes",
+            "gender": "Female",
+            "unversity": "Takushoku University"
+        },
+        {
+            "id": 80,
+            "first_name": "Benyamin",
+            "last_name": "Leonard",
+            "gender": "Male",
+            "unversity": "Zahedan University of Medical Sciences"
+        },
+        {
+            "id": 81,
+            "first_name": "Casper",
+            "last_name": "Varden",
+            "gender": "Male",
+            "unversity": "Universidad Técnica de Machala"
+        },
+        {
+            "id": 82,
+            "first_name": "Ivie",
+            "last_name": "Aspin",
+            "gender": "Female",
+            "unversity": "Hiroshima International University"
+        },
+        {
+            "id": 83,
+            "first_name": "Scotti",
+            "last_name": "Grut",
+            "gender": "Male",
+            "unversity": "Wadi International University"
+        },
+        {
+            "id": 84,
+            "first_name": "Roxanna",
+            "last_name": "McCambridge",
+            "gender": "Female",
+            "unversity": "Gaziosmanpasa University"
+        },
+        {
+            "id": 85,
+            "first_name": "Kahaleel",
+            "last_name": "Debling",
+            "gender": "Male",
+            "unversity": "University of Economics in Bratislava"
+        },
+        {
+            "id": 86,
+            "first_name": "Lilllie",
+            "last_name": "Wahncke",
+            "gender": "Female",
+            "unversity": "Ripon College"
+        },
+        {
+            "id": 87,
+            "first_name": "Jillayne",
+            "last_name": "Southernwood",
+            "gender": "Female",
+            "unversity": "European University"
+        },
+        {
+            "id": 88,
+            "first_name": "Selene",
+            "last_name": "Pautot",
+            "gender": "Female",
+            "unversity": "Kobe Shoin Women's University"
+        },
+        {
+            "id": 89,
+            "first_name": "Iggie",
+            "last_name": "Alywen",
+            "gender": "Male",
+            "unversity": "Boricua College"
+        },
+        {
+            "id": 90,
+            "first_name": "Elsinore",
+            "last_name": "Feares",
+            "gender": "Female",
+            "unversity": "Bahcesehir University"
+        },
+        {
+            "id": 91,
+            "first_name": "Hyacintha",
+            "last_name": "Caldaro",
+            "gender": "Female",
+            "unversity": "Universidade dos Acores"
+        },
+        {
+            "id": 92,
+            "first_name": "Thatch",
+            "last_name": "Blofeld",
+            "gender": "Male",
+            "unversity": "Indiana Institute of Technologyy"
+        },
+        {
+            "id": 93,
+            "first_name": "Patric",
+            "last_name": "Gepp",
+            "gender": "Male",
+            "unversity": "University of Gujrat"
+        },
+        {
+            "id": 94,
+            "first_name": "Joy",
+            "last_name": "Glas",
+            "gender": "Female",
+            "unversity": "Asian Business School"
+        },
+        {
+            "id": 95,
+            "first_name": "Demetrius",
+            "last_name": "Gomby",
+            "gender": "Male",
+            "unversity": "South University of Science and Technology of China "
+        },
+        {
+            "id": 96,
+            "first_name": "Berne",
+            "last_name": "Dommett",
+            "gender": "Male",
+            "unversity": "Virginia Polytechnic Institute and State University (Virginia Tech)"
+        },
+        {
+            "id": 97,
+            "first_name": "Kristen",
+            "last_name": "Padly",
+            "gender": "Female",
+            "unversity": "Universidad Central de Venezuela"
+        },
+        {
+            "id": 98,
+            "first_name": "Mahala",
+            "last_name": "Bigly",
+            "gender": "Female",
+            "unversity": "Pittsburg State University"
+        },
+        {
+            "id": 99,
+            "first_name": "Abby",
+            "last_name": "Wadmore",
+            "gender": "Female",
+            "unversity": "Birsa Agricultural University"
+        },
+        {
+            "id": 100,
+            "first_name": "Eugenia",
+            "last_name": "Rangall",
+            "gender": "Female",
+            "unversity": "Universitas Bunda Mulia Jakarta"
+        }
+    ]
+}
